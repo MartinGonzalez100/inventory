@@ -1,0 +1,2 @@
+# inventory
+inventario bienes patrimoniales
