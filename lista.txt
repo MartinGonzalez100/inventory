@@ -1,0 +1,4 @@
+-crear base de datos
+	*agentes, listo
+	*servicios, listo
+	*pc, listo
